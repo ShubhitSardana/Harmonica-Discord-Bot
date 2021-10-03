@@ -1,6 +1,4 @@
-/////////////////
 //configuration//
-/////////////////
 
 const Discord = require("discord.js");
 const DisTube = require("distube");
@@ -89,9 +87,7 @@ const filters = [
 ];
 //filters array for filtering
 
-/////////////////
 //////Events/////
-/////////////////
 
 client.login(config.TOKEN); //start the botthe bot
 
@@ -156,9 +152,7 @@ client.on("message", async message => {
         return;
     }
 
-    ///////////////////
     /////COMMANDS//////
-    ///////////////////
 
     try {
         if (command === "invite" || command === "add") {
@@ -508,9 +502,7 @@ client.on("message", async message => {
     }
 })
 
-///////////////
 ////DISTUBE////
-///////////////
 
 distube
     .on("playSong", async (message, queue, song) => {
@@ -630,9 +622,7 @@ distube
         }
     });
 
-///////////////
 ///FUNCTIONS///
-///////////////
 
 //function embeds creates embeds
 
@@ -993,9 +983,7 @@ function QueueEmbed(queue) {
 
 }
 
-/////////////
 ///GENERAL///
-/////////////
 
 //this function is for delaying stuff if needed
 
