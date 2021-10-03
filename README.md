@@ -8,7 +8,7 @@ Feel free to make a pull request... It will be accepted after review by the admi
 
 # Language used 
 
-: NodeJs
+JavaScript(NodeJs)
 
 # Used NodeJs libraries
 
