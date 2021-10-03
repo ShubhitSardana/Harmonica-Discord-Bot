@@ -1,5 +1,5 @@
 # Harmonica-Discord-Bot
-![image](https://user-images.githubusercontent.com/91517488/135760251-af6d29f0-3dc7-4f99-895a-fc101d69d13b.png)
+![image](https://user-images.githubusercontent.com/91517488/135760278-2d0191fe-476a-448a-b311-d75589881f60.png)
 Hey there this is a discord music bot...
 It is working code and is currently hosted on replit
 Anyone who has a decent knowledge of Node Js can make this bot better than it is now
